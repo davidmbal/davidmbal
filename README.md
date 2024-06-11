@@ -1,7 +1,7 @@
-- 👋 Hi, I’m David Balseca.
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Fullstack Development in C#.
-- 💞️ I’m looking to collaborate on projects that will challenge me.
+- 👋 Hi, I’m David Balseca
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Fullstack Development in C#
+- 💞️ I’m looking to collaborate on projects that will challenge me
 - 📫 How to reach me davidmbalseca@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am from Ecuador 🇪🇨
